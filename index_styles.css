@@ -3,5 +3,13 @@
 /*HTML Styles*/
 
 html {
-  background-color: blue;
+  background-color: cornflowerblue;
 }
+
+/*Header Styles*/
+h1, h2 {
+  text-align: center;
+  color: azure;
+  
+}
+
