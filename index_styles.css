@@ -26,6 +26,8 @@ body{
   margin-right: auto;
 }
 p{
+  margin-left: auto;
+  margin-right: auto;
   color: azure;
   font-size: small;
 }
@@ -35,6 +37,7 @@ img{
   align-content: left;
 }
 article{
+  vertical-align: top;
   float: right;
   width: fit-content;
   background-color: darkblue;
