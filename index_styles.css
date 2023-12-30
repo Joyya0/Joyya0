@@ -4,13 +4,19 @@
 
 html {
   background-color: cornflowerblue;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 /*Header Styles*/
-h1, h2 {
+h1, h2, h3{
   text-align: center;
   color: azure;
+  font-family: 'Times New Roman', Times, serif;
   
+}
+p{
+  color: azure;
+  font-size: small;
 }
 nav{
   text-align: left;
@@ -19,5 +25,10 @@ nav{
 }
 img{
   align-content: left;
+}
+article{
+  float: right;
+  width: fit-content;
+  background-color: darkblue;
 }
 
