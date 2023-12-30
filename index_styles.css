@@ -38,7 +38,8 @@ img{
 }
 article{
   vertical-align: top;
-  float: right;
+  margin-right: 5%;
+  align-content: right;
   width: fit-content;
   background-color: darkblue;
   color: azure;
